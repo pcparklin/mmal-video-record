@@ -1,0 +1,6 @@
+/CMakeFiles/
+*.ttf
+mmal_video_record
+Makefile
+CMakeCache.txt
+cmake_install.cmake
